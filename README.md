@@ -123,7 +123,7 @@ The project includes clear **Matplotlib-based visualizations**:
 ---
 
 ## 📓 Notebook
-🔗 [**PHILIPA OPOKU.ipynb**](https://github.com/philipaopoku-ds/Pizza-Sales-Exploratory-Data-Analysis/blob/main/PHILIPA%20OPOKU.ipynb) – Full Jupyter notebook with the code, data merging, visualizations, and analysis.
+🔗 [**PHILIPA OPOKU.ipynb**](https://github.com/philipaopoku-ds/Pizza-Sales-_Exploratory-Data-Analysis/blob/main/PHILIPA%20OPOKU.ipynb) – Full Jupyter notebook with the code, data merging, visualizations, and analysis.
 
 ---
 </div>
